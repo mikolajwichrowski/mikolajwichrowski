@@ -151,10 +151,27 @@ Built client and internal solutions that plugged into existing business processe
 
 ---
 
-<div align="center">
+## Beyond work
 
-🇬🇧 English · 🇳🇱 Dutch · 🇵🇱 Polish
+<table>
+<tr>
+<th align="left">🌍 Languages</th>
+<th align="left">⚡ Off the clock</th>
+</tr>
+<tr>
+<td valign="top">
 
-🏋🏻‍♂️ Gym · 🎸 Music · 🕺🏻 Dancing
+🇬🇧 **English**<br>
+🇳🇱 **Dutch**<br>
+🇵🇱 **Polish**
 
-</div>
+</td>
+<td valign="top">
+
+🏋🏻‍♂️ **Gym**: discipline, one rep at a time<br>
+🎸 **Music**: guitar and anything with a groove<br>
+🕺🏻 **Dancing**: the best way to switch off
+
+</td>
+</tr>
+</table>
