@@ -2,8 +2,6 @@
 
 # Mikolaj Wichrowski
 
-**Data & AI Architect @ [Looije Group](https://www.looijegroup.com) · Founder @ [Emplex](https://emplex.nl)**
-
 I get software shipped, working, and working well.<br>
 From the first UX sketch to the cloud architecture to the team that keeps it running.
 
