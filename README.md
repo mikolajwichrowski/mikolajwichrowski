@@ -6,7 +6,7 @@ I get software shipped, working, and working well.<br>
 From the first UX sketch to the cloud architecture to the team that keeps it running.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/linkedin-mwichrowski)
-[![Emplex](https://img.shields.io/badge/Emplex.nl-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emplex.nl)
+[![Emplex](https://img.shields.io/badge/Emplex.nl-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emplex.nl)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mikolajwichrowski)
 
 </div>
@@ -30,7 +30,7 @@ I've worked on almost every layer of software: financial systems, marketing prod
 ## What I work with
 
 **Architecture & Data**<br>
-![Data Architecture](https://img.shields.io/badge/Data_Architecture-1f2937?style=flat-square)
+![Data Architecture](https://img.shields.io/badge/Data_Architecture-2563eb?style=flat-square)
 ![AI / LLMs](https://img.shields.io/badge/AI_%2F_LLMs-7c3aed?style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -39,11 +39,11 @@ I've worked on almost every layer of software: financial systems, marketing prod
 
 **Engineering**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-374151?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-0891b2?style=flat-square)
 
 **Product & Delivery**<br>
 ![UX Design](https://img.shields.io/badge/UX_Design-ec4899?style=flat-square&logo=figma&logoColor=white)
@@ -80,7 +80,7 @@ Started as IT Coordinator: structured an IT team to run internal infrastructure 
 - Internal tooling and ERP system design
 - Team coordination
 
-![Data](https://img.shields.io/badge/-Data-1f2937?style=flat-square) ![AI](https://img.shields.io/badge/-AI-7c3aed?style=flat-square) ![Architecture](https://img.shields.io/badge/-Architecture-0f766e?style=flat-square) ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat-square) ![UX](https://img.shields.io/badge/-UX-ec4899?style=flat-square)
+![Data](https://img.shields.io/badge/-Data-2563eb?style=flat-square) ![AI](https://img.shields.io/badge/-AI-7c3aed?style=flat-square) ![Architecture](https://img.shields.io/badge/-Architecture-0f766e?style=flat-square) ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat-square) ![UX](https://img.shields.io/badge/-UX-ec4899?style=flat-square)
 
 ### Emplex · Founder
 *Late 2025 – present*
@@ -102,7 +102,7 @@ Built and led the frontend team redesigning and developing a BRP system.
 - Project management
 - BRP system development
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat-square) ![UX](https://img.shields.io/badge/-UX-ec4899?style=flat-square)
+![React](https://img.shields.io/badge/-React-087EA4?style=flat-square&logo=react&logoColor=white) ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat-square) ![UX](https://img.shields.io/badge/-UX-ec4899?style=flat-square)
 
 ### Venéco · Full Stack Engineer / UX Designer
 *Nov 2022 – Sep 2024*
@@ -113,7 +113,7 @@ Helped form a development team building internal tooling alongside company servi
 - Automated client reports
 - Developer experience
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat-square) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure)
+![React](https://img.shields.io/badge/-React-087EA4?style=flat-square&logo=react&logoColor=white) ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat-square) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure)
 
 ### Incubeta · Full Stack Engineer
 *Oct 2019 – Oct 2022*
